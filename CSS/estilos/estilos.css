@@ -1,0 +1,26 @@
+h1,h2,h3,h4,h5,h6{
+	color: skyblue;
+}
+p a {
+	color: blueviolet;
+}
+
+p .yellow{
+	color: yellow;
+}
+
+body{
+	font-size: 12px;
+}
+div{
+	font-size: 20px;
+}
+div p{
+	font-size: 1em;
+}
+h1 {
+	color:rgb(10% 40% 60%) 
+    }
+h2 {
+	color: rgba(49, 163, 239, .5);
+}
