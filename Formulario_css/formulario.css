@@ -1,0 +1,41 @@
+form{
+	width: 25%;
+	border: 1px solid gray;
+	margin: 20px;
+	padding: 20px;
+}
+
+label {
+	font-size: 15px;
+	display: block;
+
+}
+
+textarea {
+	resize: vertical;
+	max-height: 300px;
+	min-height: 100px;
+}
+
+input, textarea{
+	margin-bottom: 20px;
+	width: 100%;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+
+input:focus, textarea:focus {
+	border: 1px solid blue;
+}
+
+input [type="submit"]{
+	margin-bottom: 0;
+	background: blue;
+	color: white;
+	border: none;
+}
+
+input[type="submit"]:hover {
+		background: blueviolet;
+}
