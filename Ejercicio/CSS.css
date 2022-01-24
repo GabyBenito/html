@@ -1,0 +1,59 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family:normal;
+
+}
+h1 {
+	font-size: 50px;
+}
+p {
+	font-size: 20px;
+	margin: 5px 10px;
+	margin-bottom: 50px;
+}
+.subtitulo {
+	color: blue;
+}
+
+section {
+	margin: 20px 100px;
+}
+
+header div {
+	background: black;
+
+}
+
+
+header nav {
+	background: white;
+	overflow: hidden;
+	font-family: Arial;
+}
+
+header nav ul {
+	list-style: none;
+}
+
+header nav ul li {
+	float: left;
+}
+
+header nav ul li a {
+	padding: 3px 6px;
+	display: block;
+	color: black;
+	text-decoration: none;
+}
+.linea{
+	border-top: 1px solid blue;
+	height: 3px;
+	max-width: 2000px;
+	padding: 0;
+	margin: 50px auto 0 auto;
+}
+
