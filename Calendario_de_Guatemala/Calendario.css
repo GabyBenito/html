@@ -1,0 +1,106 @@
+*/{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;;
+	color: #333;
+	font-size: 13px;
+	background: #f1f1f1;
+	margin: 0;
+}
+
+h1{
+	font-size: 35px;
+	padding: 5px 50px ;
+}
+
+h2 {
+	padding: 10px 100px;
+	color: #B32428;
+}
+h3 {
+	padding: 10px 100px;
+	color: #B32428;
+}
+footer{
+	padding: 10px 100px;
+}
+
+
+header div{
+	background: #B32428;
+	text-align: left;
+
+}
+header  nav {
+	background: white;
+	overflow: hidden;
+	font-family: 'open Sans', sans-serif;
+	padding: 10px;
+	font-weight: 15px;
+}
+header nav ul {
+	list-style: none;
+}
+header nav ul li {
+	float: right;
+}
+header nav ul li a {
+	padding: 3px 6px;
+	display: block;
+	color: black;
+	text-decoration: none;
+}
+header nav ul li a:hover{
+	color: red;
+	text-decoration: underline;
+}
+
+.caja{
+	float: left;
+	color: black;
+	background: white;
+	padding: 15px;
+
+}
+.main {
+	width: 68.5%;
+	margin-right: 1.5%;
+	float: left;
+	background: #fff;
+	margin: 20px 60px;
+}
+img {
+	padding: 10px 100px;
+}
+
+ p{
+ 	padding: 10px 100px;
+ 	font-size: 15px;
+ }
+
+form {
+	padding: 10px 100px;
+}
+.btn{
+	border-radius: 3px;
+	display: inline-block;
+	padding: 15px 10px;
+	text-decoration: none;
+}
+.btn-red{
+	color: white;
+	background-color: #B32428;
+}
+.slt{
+	border-radius: 3px;
+	display: inline-block;
+	padding: 15px 10px;
+	text-decoration: none;
+}
+.slt-red{
+	color: white;
+	background-color: #B32428;
+}
