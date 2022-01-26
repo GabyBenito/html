@@ -1,0 +1,110 @@
+body {
+	font-family: Merriweather,Palatino Linotype,palatino,serif;
+	margin: 20px;
+}
+
+header div {
+	width: 270px;
+	margin:auto ;
+	
+}
+header div img {
+	display: block;
+}
+
+header nav{
+	overflow: hidden;
+	font-size: 23px;
+	background: #f1f1f1;
+	padding: 5px;
+	font-weight: 10px;
+}
+header nav ul {
+	list-style: none;
+}
+
+header nav ul li {
+	float: left;
+}
+header nav ul li a {
+	padding: 3px 6px;
+	display: block;
+	color: #0693e3;
+	text-decoration: none;
+}
+
+header nav ul li a:hover {
+	color: #000;
+}
+
+header nav ol {
+	list-style: none;
+}
+header nav ol li {
+	float: left;
+}
+header nav ol li a {
+	color: black;
+	font-size: 30px;
+	text-decoration: none;
+	display: block;
+
+}
+header nav ol li a:hover{
+	color: #0693e3;
+}
+
+h1{
+	margin: 1px 15px;
+	font-size: 45px;
+}
+
+h2{
+	color: #B32428;
+	font-size: 30px;
+	font-family: Merriweather, Georgia, serif;
+}
+
+p{
+	margin: 20px 125px ;
+	font-size: 21px;
+}
+
+.uno{
+	margin: 0;
+	background: #f1f1f1;
+}
+
+ .pie{
+	margin: 0;
+}
+
+.par {
+	margin: 0;
+	font-size: 15px;
+}
+
+section nav {
+	overflow: hidden;
+	font-size: 16px;
+	background: #f1f1f1;
+}
+
+section nav ul {
+	list-style: none;
+}
+
+section nav ul li {
+	float: left;
+}
+
+section nav ul li a {
+	padding: 6px 12px;
+	display: block;
+	color: #0693e3;
+	text-decoration: none;
+}
+section nav ul li a:hover{
+	color: #000;
+}
+
