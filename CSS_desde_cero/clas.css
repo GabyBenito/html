@@ -1,0 +1,29 @@
+/*
+*{
+	font-family: Arial;
+}
+
+.caja1{
+	height: 200px;
+	width: 200px;
+	background: violet;
+	border: 6px solid pink;
+}
+
+.caja1:hover{
+	background: red;
+	border: 6px solid blue;
+}*/
+
+a:link{
+	color: red;
+	background: blue;
+	display: block;
+	padding: 20px;
+}
+
+a:visited{
+	color: violet;
+	background: black;
+	padding: 10px;
+}
