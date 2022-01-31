@@ -1,10 +1,18 @@
+/*.caja{
+	margin: 25px;
+	background: lightgray;
+	transition: background 1s;
+}
+
+.caja:focus{
+	background: white;
+}*/
+
 .caja{
-	width: 300px;
-	height: 300px;
-	background: red;
 	margin: 25px;
 }
 
-.caja:active{
-	background: blue;
+.caja b:lang(en){
+	background: red;
+
 }
