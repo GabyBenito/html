@@ -1,0 +1,34 @@
+/*text{
+	padding: 20px;
+}
+
+.text::first-line{
+	color: blue;
+}
+.text::first-letter{
+	color: blueviolet;
+	font-size: 5em;
+}*/
+
+form{
+	margin: 100px auto;
+	display: block;
+	background: #555;
+	padding: 100px;
+	width: 50%;
+
+}
+
+input{
+	padding: 6px;
+	width: 100%;
+}
+
+input::placeholder{
+	color: red;
+	background: yellow;
+}
+
+input::selection{
+	color: blueviolet;
+}
