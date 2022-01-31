@@ -1,0 +1,16 @@
+*{
+	font-family: 'lobster', cursive;
+	font-weight: 100;
+	font-size: 40px;
+}
+
+body{
+	padding-top: 100px;
+}
+
+.fixed{
+	background: red;
+	position: fixed;
+	margin: -105px;
+
+}
