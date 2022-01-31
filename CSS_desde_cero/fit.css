@@ -1,0 +1,14 @@
+.caja{
+	margin: 25px;
+	width: 300px;
+	height: 500px;
+	
+}
+
+.caja img {
+	height: 100%;
+	width: 100%;
+	border: 2px solid red;
+	object-fit:cover ;
+	object-position:-10em;
+}
