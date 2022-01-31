@@ -1,0 +1,44 @@
+/*div {
+	width: 120px;
+	height: 120px;
+	display: block;
+	background: yellow;
+}
+
+.caja1{
+	background: orange;
+}
+.caja2{
+	background: green;
+	position: relative;
+	top: 59px;
+	left: 60px;
+
+
+
+}
+.caja3{
+	background: blueviolet;
+
+}
+.caja4{
+	background: lightblue;
+
+}*/
+
+.contenedor {
+	width: 300px;
+	width: 300px;
+	margin: 40px;
+	background: blueviolet;
+}
+
+.hijo{
+	background-color: orange;
+	height: 120px;
+	width: 120px;
+	position: relative;
+	top: -20px;
+	left: 20px;
+	z-index: -1;
+}
